@@ -28,7 +28,5 @@ public class Sterownik {
 		consumer1.start();
 		consumer2.start();
 
-		// System.out.println("Program konczy prace"); //ku mojemu (lekkiemu)
-														// zdziwieniu to nie wypisywalo sie na koncu
 	}
 }
